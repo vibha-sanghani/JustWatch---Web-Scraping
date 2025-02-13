@@ -1,4 +1,22 @@
-# JustWatch---Web-Scraping
+# 🎬 Just Watch - Web Scraping (Movie & TV Shows) 🎥  
 
-Description:
-JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. For this assignment, you will be required to scrape movie and TV show data from JustWatch using Selenium, Python, and BeautifulSoup. Extract data from HTML, not by directly calling their APIs. Then, perform data filtering and analysis using Pandas, and finally, save the results to a CSV file.
+## 📌 Overview  
+This project involves web scraping movie and TV show data from **Just Watch** to extract, filter, and analyze streaming content. The collected data is processed and exported for further insights.  
+
+## 🎯 Features  
+### 1️⃣ Web Scraping  
+- Extracts movie and TV show details (title, genre, release year, rating, streaming platform, etc.)  
+- Uses **BeautifulSoup & Requests** for data extraction.  
+
+### 2️⃣ Data Filtering & Analysis  
+- Cleans and processes the scraped data.  
+- Filters content based on rating, genre, and availability.  
+- Performs basic data analysis for insights.  
+
+### 3️⃣ Data Export  
+- Saves the extracted data in structured formats like **CSV, JSON, or Excel**.  
+- Enables easy integration with other data processing tools.  
+
+## 🛠️ Tech Stack  
+- **Python**  
+- **Libraries Used**: BeautifulSoup, Requests, Pandas  
